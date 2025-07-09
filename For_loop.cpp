@@ -17,3 +17,13 @@ int main () {
    
     return 0;
 }
+
+
+
+/*
+ Loops : there is 3 types of loop .. 
+  1. for loop   => for( initialization; condition; increment/decrement )
+  2. while loop => while(condition) { // code to execute }
+  3. do while loop => do { // code to execute } while(condition);
+
+*/
